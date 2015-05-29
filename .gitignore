@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Portfolio Willemieke Herrewijnen</title>
+      <link rel="stylesheet" type="text/css" href="reset.css">
+      <link rel="stylesheet" type="text/css" href="portfoliowillemieke.css">
+      <meta charset="utf-8">
+    </head>
+  <body>
+    <div class="menu">
+       <ul>
+         <li><a>Home</a></li>
+         <li><a>Over W.H.</a></li>
+         <li><a>Werk</a></li>
+         <li><a>Instagram</a></li>
+         <li><a>Contact</a></li>
+     </ul>
+  </div>
+    <header> 
+      <h1>W.H.</h1>
+   </header> 
+    <section> 
+      <h2>Student Graphic Design</h2>
+    </section>
+      <h3>Willemieke Herrewijnen, studente Grafische en Digitale media op Artesis Plantijn Hogeschool te Antwerpen. Dit is haar eerste jaar op de hogeschool. Eind dit schooljaar zal ze voor de keuze komen te staan of meer de online media iets voor haar is of de print media. Momenteel is het nog een groot vraagteken van wat ze het liefste wil doen.
+      Haar voorkeur gaat toch eerder uit naar de print media omdat ze het gevoel heeft zich daar meer te kunnen ontplooien. De online media vind ze ook zeer interessant maar het maken van websites en dergelijke heeft soms nog wat vraagtekens voor haar. Later zou Willemieke graag bij een reclame bureau of een magazine willen werken. Ze zou het heel leuk vinden mocht ze de opmaak van de paginas of covers mogen creëren.
+      Willemieke zou daarom ook graag eens stage lopen bij dat soort bedrijven zodat ze kan zien hoe het er op de werkvloer aantoe gaat.</h3>
+      <p>Copyright Willemieke Herrewijnen</p>
+  </body>
+</html>
